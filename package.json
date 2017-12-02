@@ -8,5 +8,9 @@
   },
   "author": "Nash171",
   "license": "ISC",
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nash171/feather-mortise-cut"
+  }
 }
